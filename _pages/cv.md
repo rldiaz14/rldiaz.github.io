@@ -10,3 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](https://rldiaz14.github.io/rldiaz.github.io/files/ResumeDiaz.pdf)
