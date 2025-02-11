@@ -1,0 +1,23 @@
+@import "custom";
+
+
+
+$background-color: #1e1e1e; // Dark mode background 
+$text-color: #ffffff;  // White text color
+$link-color: #ff9800; // Orange link 
+$link-color-hover: #ff5722; // Dark orange hover
+
+.masthead{
+    background-color: #333333 !important;
+    color: white;
+}
+
+.footer{
+    background-color: #111111;
+    color: #dddddd;
+}
+
+.sidebar{
+    background-color: #222222;
+    color: #f0f0f0;
+}
