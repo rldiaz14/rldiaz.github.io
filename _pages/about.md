@@ -17,6 +17,7 @@ I am currently seeking my Master in Computer Science: with Focus Artificial Inte
 
 ------
 # Research Collaboration
+
 ------
 # Conference 
 Carnegie Mellon University (CMU)
