@@ -8,16 +8,18 @@ redirect_from:
 ---
 
 [Hi! My name is Ramon]
-I am currently seeking my Master in Computer Science: with Focus Artificial Intellingence and Machine Learning
+I am currently pursuing a ** Master in Computer Science **, with focus on ** Artificial Intellingence and Machine Learning **
 
 ======
 # Research Interest
-* Large Language Model (LLM): 
+** Large Language Model (LLM) ** - Natural Language understanding and generation.
+** Reiforcement Learning ** - Autonomous System 
 ======
 
 ------
 # Research Collaboration
-
+** Digital Twin ** 
+  Presented at ** TRB 2025 ** - Transportaton Research Board
 ------
 # Conference 
 Carnegie Mellon University (CMU)
