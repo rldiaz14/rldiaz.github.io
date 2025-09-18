@@ -19,15 +19,13 @@ redirect_from:
 # Project Collaboration
 
 * Digital Twin
-
-Digital Twin:Presented at TRB 2025 - Transportaton Research Board
+  Digital Twin:Presented at TRB 2025 - Transportaton Research Board
 
 ======
 
 # Conference
-
 Carnegie Mellon University (CMU) \\
-21 Safety Road Nov 2024
+ 21 Safety Road Nov 2024
 
 ======
 
