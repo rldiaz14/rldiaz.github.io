@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of Agents Training in the enviroment](images\Picture1_AgentTraining.png){: align="right" width="300px"}
+![Illustration of Agents Training in the enviroment](images\Picture1_AgentTraining.png){: align="right" width="150px"}
 📖 I'm recent graduate student at Drexel University in Philadephia, P.A. 
 
 🔬 My research interest include Reinforcement Learning, Deep Reinforcement Learning, and  Computer Vision to bridge with Augmented Reality, Virtual Reality, and  Procedural Generation Content. 
