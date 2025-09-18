@@ -24,10 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "ProfilePicture.png"
-  name             : "Your Sidebar Name"
+  name             : "Ramon L. Diaz"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Willow Street, PA"
+  bio              : "Computer Science Graduate | Reinforcement Learning Enthusiast"
   employer         : "Unemployed"
   uri              : # URL
   email            : "rldiaz14.1@gmail.com" 
