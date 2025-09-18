@@ -16,15 +16,15 @@ redirect_from:
 
 🤖 I am also interested in collaborating on AI-driven research projects that push the boundaries of how intelligent systems can enhance other technology.
 
-A data-driven personal website
+# Project Collaboration
 ======
-Need Change
+* Digital Twin
+
+Digital Twin:Presented at TRB 2025 - Transportaton Research Board
 
 
-Site-wide configuration
-------
-
-
-Create content & metadata
+# Conference
+Carnegie Mellon University (CMU) \\
+21 Safety Road Nov 2024
 ------
 
