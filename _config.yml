@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/0009-0007-4248-3935"
   semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ramon-Diaz-Ortiz?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
@@ -54,7 +54,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : https://www.facebook.com/profile.php?id=61569390609755
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
