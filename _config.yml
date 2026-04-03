@@ -22,8 +22,8 @@ repository               : "https://github.com/rldiaz14/rldiaz.github.io"
 author:
   # Biographic information
   avatar           : "ProfilePicture.png" # Profile image in /images
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : #"He/Him"  
+  bio              : "AI Engineer | Game Developer | Researcher"
   location         : "Willow Street, PA"
   employer         : "Jitsik LLC"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/rldiaz14"
+  linkedin         : "rldiaz14/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

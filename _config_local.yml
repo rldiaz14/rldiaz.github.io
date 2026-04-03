@@ -1,0 +1,3 @@
+# Local development overrides for Docker/Windows
+url: "http://localhost:4001"
+baseurl: ""
